@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Cedust Industries</h1>
 
-<!--
-**Cedust/Cedust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Browser games born from a love of RPGs, auto-battlers and incremental games.<br>
+  Each one started as an experiment and grew into its own world.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://cedust.github.io/"><b>🎮 cedust.github.io</b></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://cedust.github.io/IdleHero/"><img src="https://cedust.github.io/assets/idlehero.svg" height="120" alt="Not So Idle Hero logo"></a>
+      <h3>Not So Idle Hero</h3>
+      <i>Idle RPG</i>
+      <p>An incremental action RPG where your hero keeps growing over time. Delve into dungeons, defeat bosses and earn experience and loot, then return to town to level up attributes, unlock skills and craft and enchant your gear – ready for ever tougher challenges.</p>
+      <a href="https://cedust.github.io/IdleHero/"><b>▶ Play now</b></a> · <a href="https://github.com/Cedust/IdleHero">Code</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://crucible-theashendescent.pages.dev"><img src="https://cedust.github.io/assets/crucible.png" height="120" alt="Crucible logo"></a>
+      <h3>Crucible</h3>
+      <i>The Ashen Descent</i>
+      <p>An idle browser game with turn-based auto-battles. Lead a trio of heroes on their descent through the ruins of a fallen realm, shape their build between runs and watch each fight unfold – every bit of progress is earned in battle.</p>
+      <a href="https://crucible-theashendescent.pages.dev"><b>▶ Play now</b></a> · <a href="https://github.com/Cedust/CrucibleIdleRpg">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://cedust.github.io/Emberheir/"><img src="https://cedust.github.io/assets/emberheir.png" height="120" alt="Emberheir logo"></a>
+      <h3>Emberheir</h3>
+      <i>Auto-Battler Roguelite</i>
+      <p>A browser auto-battler roguelite with Diablo-style loot. Guide a young otter heir on a perilous journey, craft gear with forest-animal companions, refine your battle plan and break the ash cycle of the Ashen Harvester.</p>
+      <a href="https://cedust.github.io/Emberheir/"><b>▶ Play now</b></a> · <a href="https://github.com/Cedust/Emberheir">Code</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://cedust.github.io/Exaltia/"><img src="https://cedust.github.io/assets/exaltia.png" height="120" alt="Exaltia logo"></a>
+      <h3>Exaltia</h3>
+      <i>Paragons of the Oath</i>
+      <p>A browser monster-collector auto-battler inspired by the aeons of Final Fantasy X. Bind elemental Paragons and Acolytes, build your team and fight Vow Duels across the lands surrounding the shattered Spire.</p>
+      <a href="https://cedust.github.io/Exaltia/"><b>▶ Play now</b></a> · <a href="https://github.com/Cedust/Exaltia">Code</a>
+    </td>
+  </tr>
+</table>
