@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cedust.github.io/"><b>🎮 cedust.github.io</b></a>
+  <a href="https://cedust.github.io/"><b>cedust.github.io</b></a>
 </p>
 
 <table>
