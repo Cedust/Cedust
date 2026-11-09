@@ -38,4 +38,12 @@
       <a href="https://cedust.github.io/Exaltia/"><b>Play now</b></a> · <a href="https://github.com/Cedust/Exaltia">Code</a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <a href="https://cedust.github.io/LordOfDestruction/"><img src="https://cedust.github.io/assets/lordofdestruction.png" height="120" alt="Lord of Destruction logo"></a>
+      <h3>Lord of Destruction<br><sub><i>Idle Auto-Battler</i></sub></h3>
+      <p>An idle auto-battler where you play the villain. Waves of heroes storm your throne room and break against your dark powers. When you fall, you rise again stronger – seal dark pacts, gather dread and shape a build that holds the throne ever longer.</p>
+      <a href="https://cedust.github.io/LordOfDestruction/"><b>Play now</b></a> · <a href="https://github.com/Cedust/LordOfDestruction">Code</a>
+    </td>
+  </tr>
 </table>
