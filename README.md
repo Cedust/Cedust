@@ -18,7 +18,7 @@
       <a href="https://cedust.github.io/IdleHero/"><b>Play now</b></a> · <a href="https://github.com/Cedust/IdleHero">Code</a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://crucible-theashendescent.pages.dev"><img src="https://cedust.github.io/assets/crucible.png" height="120" alt="Crucible logo"></a>
+      <a href="https://crucible-theashendescent.pages.dev"><img src="https://cedust.github.io/assets/crucible-tile.png" height="120" alt="Crucible logo"></a>
       <h3>Crucible<br><sub><i>The Ashen Descent</i></sub></h3>
       <p>An idle browser game with turn-based auto-battles. Lead a trio of heroes on their descent through the ruins of a fallen realm, shape their build between runs and watch each fight unfold – every bit of progress is earned in battle.</p>
       <a href="https://crucible-theashendescent.pages.dev"><b>Play now</b></a> · <a href="https://github.com/Cedust/CrucibleIdleRpg">Code</a>
